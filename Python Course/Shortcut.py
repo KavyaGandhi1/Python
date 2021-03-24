@@ -1,1 +1,0 @@
-print('My name\'s Kavya Gandhi')

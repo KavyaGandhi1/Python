@@ -1,1 +1,0 @@
-print("hello \U0001F609	")
